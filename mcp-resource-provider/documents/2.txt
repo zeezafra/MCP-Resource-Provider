@@ -1,0 +1,7 @@
+Setup Guide
+
+1. Create and activate a virtual environment.
+2. Install dependencies from requirements.txt.
+3. Run the server with: python resource_demo.py
+4. In a second terminal, run: fastmcp dev resource_demo.py
+5. Open the Inspector UI link that gets printed to your terminal.

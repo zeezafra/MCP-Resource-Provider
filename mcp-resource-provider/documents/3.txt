@@ -1,0 +1,5 @@
+Notes
+
+Resources are read-only. Use tools instead if you need the server to
+take an action or cause a side effect. Resources are best for exposing
+data such as files, database records, or knowledge base chunks.
